@@ -1,0 +1,3 @@
+[submodule "anomaly_detection_app"]
+	path = anomaly_detection_app
+	url = https://github.com/filippouxry/diploma-thesis.git
